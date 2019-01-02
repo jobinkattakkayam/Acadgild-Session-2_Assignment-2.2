@@ -1,6 +1,6 @@
 # Acadgild-Session-2_Assignment-2.2
 
-5. Problem Statement
+ Problem Statement
 
 1. Read multiple json files into a working directory for further converting into a dataset.
 
